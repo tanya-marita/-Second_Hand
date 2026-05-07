@@ -1,0 +1,81 @@
+[ {
+  "id" : "CAR-1744347416007",
+  "engineNumber" : "ENG987654311",
+  "chassisNumber" : "CHS98765432109876",
+  "manufacturedYear" : 2021,
+  "brand" : "Honda",
+  "manufacturedCountry" : "Japan",
+  "registrationNumber" : "HND-2021",
+  "deleteStatus" : true,
+  "imageUrl" : "/uploads/9b713a0e-d675-4701-8fe6-c793a1458608.png"
+}, {
+  "id" : "CAR-1744347861156",
+  "engineNumber" : "ABC1212",
+  "chassisNumber" : "AB12312313131",
+  "manufacturedYear" : 2000,
+  "brand" : "Suzuki",
+  "manufacturedCountry" : "Japan",
+  "registrationNumber" : "ABC123123",
+  "deleteStatus" : true,
+  "imageUrl" : "/uploads/5826aaea-3b83-4d99-b6e1-e3f77edc0de7.png"
+}, {
+  "id" : "CAR-1744347955115",
+  "engineNumber" : "ABC12122",
+  "chassisNumber" : "AB123123131312",
+  "manufacturedYear" : 2001,
+  "brand" : "Suzuki",
+  "manufacturedCountry" : "India",
+  "registrationNumber" : "ABC1231232",
+  "deleteStatus" : false,
+  "imageUrl" : "/uploads/62fb754e-d04c-4372-893a-1f7c80e4a353.webp"
+}, {
+  "id" : "CAR-1744347999597",
+  "engineNumber" : "ABC121222",
+  "chassisNumber" : "AB1231231313122",
+  "manufacturedYear" : 2022,
+  "brand" : "Toyota",
+  "manufacturedCountry" : "Japan",
+  "registrationNumber" : "ABC123123",
+  "deleteStatus" : true,
+  "imageUrl" : "/uploads/08e1d178-5fe3-436d-ad01-1c278a87c32a.png"
+}, {
+  "id" : "CAR-1744427158446",
+  "engineNumber" : "ABC101010101010101010",
+  "chassisNumber" : "ghuasduasud12313213",
+  "manufacturedYear" : 1999,
+  "brand" : "WoxWagon",
+  "manufacturedCountry" : "Jerman",
+  "registrationNumber" : "JU1010",
+  "deleteStatus" : false,
+  "imageUrl" : "/uploads/dfdee7a3-a1ea-4eee-8fdc-367a26b3a50a.webp"
+}, {
+  "id" : "CAR-1744427532780",
+  "engineNumber" : "888888888",
+  "chassisNumber" : "99999999",
+  "manufacturedYear" : 2022,
+  "brand" : "Bugati",
+  "manufacturedCountry" : "England",
+  "registrationNumber" : "KU1212",
+  "deleteStatus" : false,
+  "imageUrl" : "/uploads/546ef5bb-a63b-4d62-bc65-edb6997d567b.avif"
+}, {
+  "id" : "CAR-1744427918137",
+  "engineNumber" : "ENG9876543111111",
+  "chassisNumber" : "CHS987654321098762222",
+  "manufacturedYear" : 2015,
+  "brand" : "Honda",
+  "manufacturedCountry" : "Japan",
+  "registrationNumber" : "BGU2211",
+  "deleteStatus" : false,
+  "imageUrl" : "/uploads/bc7cdb86-8ab1-4b7b-8bbf-f71ee14ed359.webp"
+}, {
+  "id" : "CAR-1744428829217",
+  "engineNumber" : "ENG98765431112313123",
+  "chassisNumber" : "CHS9876543210987612312321",
+  "manufacturedYear" : 2005,
+  "brand" : "Toyota",
+  "manufacturedCountry" : "Japan",
+  "registrationNumber" : "ABC123123121212",
+  "deleteStatus" : false,
+  "imageUrl" : "/uploads/445f6306-b32e-45ba-9029-9609e3e4d129.webp"
+} ]

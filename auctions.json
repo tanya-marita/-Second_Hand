@@ -1,0 +1,35 @@
+[ {
+  "id" : "AUCTION-1744427991033",
+  "car" : {
+    "id" : "CAR-1744427532780",
+    "engineNumber" : "888888888",
+    "chassisNumber" : "99999999",
+    "manufacturedYear" : 2022,
+    "brand" : "Bugati",
+    "manufacturedCountry" : "England",
+    "registrationNumber" : "KU1212",
+    "deleteStatus" : false,
+    "imageUrl" : "/uploads/546ef5bb-a63b-4d62-bc65-edb6997d567b.avif"
+  },
+  "bidStartPrice" : 10000.0,
+  "status" : "CLOSED",
+  "auctionDate" : "2025-04-12",
+  "deleteStatus" : false
+}, {
+  "id" : "AUCTION-1744428887071",
+  "car" : {
+    "id" : "CAR-1744428829217",
+    "engineNumber" : "ENG98765431112313123",
+    "chassisNumber" : "CHS9876543210987612312321",
+    "manufacturedYear" : 2005,
+    "brand" : "Toyota",
+    "manufacturedCountry" : "Japan",
+    "registrationNumber" : "ABC123123121212",
+    "deleteStatus" : false,
+    "imageUrl" : "/uploads/445f6306-b32e-45ba-9029-9609e3e4d129.webp"
+  },
+  "bidStartPrice" : 20000.0,
+  "status" : "OPEN",
+  "auctionDate" : "2025-04-12",
+  "deleteStatus" : false
+} ]

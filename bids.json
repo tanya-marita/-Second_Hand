@@ -1,0 +1,65 @@
+[ {
+  "id" : "BID-1744418136281",
+  "userEmail" : "gimhantharuke456@gmail.com   ",
+  "auctionId" : "AUCTION-1744396009906",
+  "biddedAt" : "2025-04-12 06:05:36",
+  "bidAmount" : 5000.0,
+  "status" : "OUTBID",
+  "deleteStatus" : true
+}, {
+  "id" : "BID-1744419491020-423",
+  "userEmail" : "gimhantharuke456@gmail.com",
+  "auctionId" : "AUCTION-1744396009906",
+  "biddedAt" : "2025-04-12 06:28:11",
+  "bidAmount" : 6000.0,
+  "status" : "OUTBID",
+  "deleteStatus" : true
+}, {
+  "id" : "BID-1744422999118-406",
+  "userEmail" : "gimhantharuke456@gmail.com",
+  "auctionId" : "AUCTION-1744396009906",
+  "biddedAt" : "2025-04-12 07:26:39",
+  "bidAmount" : 7000.0,
+  "status" : "OUTBID",
+  "deleteStatus" : true
+}, {
+  "id" : "BID-1744424951931-554",
+  "userEmail" : "admin@admin.com",
+  "auctionId" : "AUCTION-1744396009906",
+  "biddedAt" : "2025-04-12 07:59:11",
+  "bidAmount" : 8000.0,
+  "status" : "WINNING",
+  "deleteStatus" : true
+}, {
+  "id" : "BID-1744425917821-641",
+  "userEmail" : "admin@admin.com",
+  "auctionId" : "AUCTION-1744425780085",
+  "biddedAt" : "2025-04-12 08:15:17",
+  "bidAmount" : 3000.0,
+  "status" : "WINNING",
+  "deleteStatus" : true
+}, {
+  "id" : "BID-1744428249066-704",
+  "userEmail" : "gimhantharuke456@gmail.com",
+  "auctionId" : "AUCTION-1744427991033",
+  "biddedAt" : "2025-04-12 08:54:09",
+  "bidAmount" : 12000.0,
+  "status" : "OUTBID",
+  "deleteStatus" : true
+}, {
+  "id" : "BID-1744428321879-263",
+  "userEmail" : "testuser@gmail.com",
+  "auctionId" : "AUCTION-1744427991033",
+  "biddedAt" : "2025-04-12 08:55:21",
+  "bidAmount" : 13000.0,
+  "status" : "LOST",
+  "deleteStatus" : false
+}, {
+  "id" : "BID-1744429087111-730",
+  "userEmail" : "gimhantharuke456@gmail.com",
+  "auctionId" : "AUCTION-1744427991033",
+  "biddedAt" : "2025-04-12 09:08:07",
+  "bidAmount" : 13100.0,
+  "status" : "WINNING",
+  "deleteStatus" : false
+} ]

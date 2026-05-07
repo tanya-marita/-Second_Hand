@@ -1,0 +1,13 @@
+[ {
+  "id" : "ADV-1744428133813",
+  "title" : "SALE SALE 50% off",
+  "description" : "Update description 20234444",
+  "imageUrl" : "/uploads/0fe54f6b-2164-4e8b-8f24-af33602b332b.webp",
+  "deleteStatus" : false
+}, {
+  "id" : "ADV-1744428178877",
+  "title" : "25% off April Season",
+  "description" : "2025 april off season started,",
+  "imageUrl" : "/uploads/28fb0d3f-87b2-4a69-80ab-f5ca4dbd5186.webp",
+  "deleteStatus" : false
+} ]

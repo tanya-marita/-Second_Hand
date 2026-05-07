@@ -1,0 +1,41 @@
+[ {
+  "firstName" : "aGImhan",
+  "lastName" : "Rajapaksha",
+  "address" : "No 10,Malambe",
+  "email" : "gimhantharuke456@gmail.com",
+  "password" : "071656Ad@@",
+  "role" : "USER",
+  "dashboardUrl" : "/user/dashboard"
+}, {
+  "firstName" : "Admin",
+  "lastName" : "Admin",
+  "address" : "admin,Sri Lanka.",
+  "email" : "admin@admin.com",
+  "password" : "071656Ad@",
+  "role" : "ADMIN",
+  "dashboardUrl" : "/user/dashboard"
+}, {
+  "firstName" : "Jayarathna",
+  "lastName" : "Rajapaksha",
+  "address" : "No 203,Hela Halpe\nHela Halpe",
+  "email" : "gimhantharuke456@gmail.coms",
+  "password" : "071656Ad@",
+  "role" : "USER",
+  "dashboardUrl" : "/user/dashboard"
+}, {
+  "firstName" : "asdad",
+  "lastName" : "asdad",
+  "address" : "asdasd",
+  "email" : "aaaa@a.com",
+  "password" : "071656Ad@",
+  "role" : "USER",
+  "dashboardUrl" : "/user/dashboard"
+}, {
+  "firstName" : "Test",
+  "lastName" : "User",
+  "address" : null,
+  "email" : "testuser@gmail.com",
+  "password" : "071656Ad@",
+  "role" : null,
+  "dashboardUrl" : "/user/dashboard"
+} ]
